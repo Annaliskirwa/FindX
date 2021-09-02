@@ -1,14 +1,8 @@
-body {
-  background-color:white;
-  background-image: url(image123.jpg);
-  background-size: cover;
-}
-
 .pricingcontainer{
         position: relative;
         width: 1440;
         height:1024;
-        
+        background: #EEEEEE;
 }
 
 .logo {
@@ -44,31 +38,13 @@ body {
   background-color: red;
   color: black;
 }
-.sideNavBar a.pricestyle{
-  background-color: red;
-}
 
 a:hover {
   background-color: red;
   color: white;
 }
 
-h1 {
-  text-align: center;
-  margin: 10px;
-  margin-bottom: 50px;
- color:white;
-  padding: 20px;
-  padding: 0;
 
-}
-
-.icons img{
-  padding-top: 60%;
-  padding-left: 8%;
-  height: 40px;
-  width: 50px;
-}
 
 #prices{
   margin-left: 280px;
